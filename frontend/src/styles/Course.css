@@ -42,11 +42,11 @@
 }
 
 .course-topic h2, .course-duration h2, .course-level h2, .course-price h2{  
-    color : #02466b;    
+    color : var(--heading-color);    
 }
 .contenu1{
     margin-top: 22px;
-    color: black;
+    color: var(--color);
 }
 .contenu{
     margin-top: 28px;
